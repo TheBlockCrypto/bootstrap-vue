@@ -10,7 +10,10 @@
   "sass": "src/index.scss",
   "style": "dist/bootstrap-vue.css",
   "license": "MIT",
-  "repository": "bootstrap-vue/bootstrap-vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBlockCrypto/dom-to-image-more.git"
+},
   "homepage": "https://bootstrap-vue.org",
   "types": "src/index.d.ts",
   "web-types": "dist/web-types.json",
